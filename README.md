@@ -1,6 +1,6 @@
 # Sonnensystem
 
-[![Project Status: Completed](./assets/badges/status.svg)](/)
+[![Project status: completed](./assets/badges/status.svg)](/)
 
 > A simple website template for a solar system information project.
 
